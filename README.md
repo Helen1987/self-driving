@@ -1,5 +1,6 @@
 *Python*
 - Python programming conventions: https://www.python.org/dev/peps/pep-0008/
+- Python Numpy Tutorial: http://cs231n.github.io/python-numpy-tutorial/
 
 --------
 
