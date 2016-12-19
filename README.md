@@ -1,7 +1,12 @@
 *Python*
 - Python programming conventions: https://www.python.org/dev/peps/pep-0008/
 
----
+--------
+
+*Deep Learning*
+- Stanford course notes: http://cs231n.github.io/
+
+------
 
 *Project 1 - Finding Lane Lines on the Road*
 - Hough Line Transform: http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html
