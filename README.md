@@ -6,7 +6,7 @@
 
 *Deep Learning*
 - Stanford course notes: http://cs231n.github.io/
-- Back propogation intuition: https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.l6idncsa3
+- Back propogation intuition: https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 
 ------
 
