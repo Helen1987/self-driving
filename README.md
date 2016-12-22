@@ -25,3 +25,8 @@
                 https://arxiv.org/pdf/1501.03124.pdf
 - Optimal way for tuning parameters - http://www.transistor.io/revisiting-lane-detection-using-opencv.html
                                       http://stackoverflow.com/questions/36598897/python-and-opencv-improving-my-lane-detection-algorithm
+
+-----
+
+*Project 2 - Traffic Sign Classifier*
+- Image preprcessing: https://www.quora.com/What-are-some-ways-of-pre-procesing-images-before-applying-convolutional-neural-networks-for-the-task-of-image-classification
