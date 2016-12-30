@@ -14,6 +14,7 @@
 
 *Convolutional Neural Networks*
 - How Convolutional Neural Networks work: https://www.youtube.com/watch?v=FmpDIaiMIeA
+- Convolutional Neural Networks for Visual Recognition: http://cs231n.github.io/neural-networks-2/
 
 ------
 
