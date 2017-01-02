@@ -4,10 +4,15 @@
 
 --------
 
-*Deep Learning*
+*Neural Networks*
 - Math behind ML (links): http://www.deeplearningweekly.com/pages/open_source_deep_learning_curriculum
 - Stanford course notes: http://cs231n.github.io/
 - Back propogation intuition: https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
+- CNN tricks: http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html
+
+------
+
+*Deep Learning*
 - Book written by one of the leading researchers in the field, Yoshua Bengio: http://www.deeplearningbook.org/
 
 ------
