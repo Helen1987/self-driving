@@ -22,6 +22,10 @@
 - Convolutional Neural Networks for Visual Recognition: http://cs231n.github.io/neural-networks-2/
 
 ------
+*Useful Youtube resources*
+- https://www.youtube.com/watch?v=oYbVFhK_olY&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=43
+------
+
 
 *Project 1 - Finding Lane Lines on the Road*
 - Hough Line Transform: http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html
