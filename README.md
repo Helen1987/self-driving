@@ -14,6 +14,7 @@
 
 *Deep Learning*
 - [Book written by one of the leading researchers in the field, Yoshua Bengio](http://www.deeplearningbook.org/)
+- [Michael Neilsen's free book on Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ------
 
