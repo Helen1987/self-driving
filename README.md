@@ -20,6 +20,7 @@
 
 *Convolutional Neural Networks*
 - [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+- [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-2/)
 
 ------
