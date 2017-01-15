@@ -1,3 +1,8 @@
+*Machine Learning*
+- [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
+
+--------
+
 *Python*
 - [Python programming conventions](https://www.python.org/dev/peps/pep-0008/)
 - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
