@@ -14,6 +14,7 @@
 - [Stanford course notes](http://cs231n.github.io/)
 - [Back propogation intuition](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 - [CNN tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+- [NN zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 
 ------
 
