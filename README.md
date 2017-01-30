@@ -15,6 +15,7 @@
 - [Back propogation intuition](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 - [CNN tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 - [NN zoo](http://www.asimovinstitute.org/neural-network-zoo/)
+- [Analysis of Dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/)
 
 ------
 
