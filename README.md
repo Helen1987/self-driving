@@ -1,5 +1,6 @@
 *Machine Learning*
 - [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
+- [A DARPA Perspective on Artificial Intelligence](https://www.youtube.com/watch?v=-O01G3tSYpU)
 
 --------
 
@@ -26,6 +27,7 @@
 ------
 
 *Convolutional Neural Networks*
+- [Visualisation: what activation layers see](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 - [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-2/)
