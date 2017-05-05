@@ -1,3 +1,9 @@
+*Filters*
+ * Kalman Filter
+  * [The Kalman Filter](http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf)
+  * [The Extended Kalman Filter](http://home.wlu.edu/~levys/kalman_tutorial/)
+  
+
 *Machine Learning*
 - [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
 - [A DARPA Perspective on Artificial Intelligence](https://www.youtube.com/watch?v=-O01G3tSYpU)
