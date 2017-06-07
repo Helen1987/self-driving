@@ -1,7 +1,7 @@
 *Filters*
- * Kalman Filter
   * [The Kalman Filter](http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf)
   * [The Extended Kalman Filter](http://home.wlu.edu/~levys/kalman_tutorial/)
+  * [Particle Filters in Robotics](http://robots.stanford.edu/papers/thrun.pf-in-robotics-uai02.pdf
   
 
 *Machine Learning*
