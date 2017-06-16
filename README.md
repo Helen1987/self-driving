@@ -1,3 +1,6 @@
+*Controllers*
+ * [PID](https://udacity-reviews-uploads.s3.amazonaws.com/_attachments/41330/1493863065/pid_control_document.pdf)
+
 *Filters*
   * [The Kalman Filter](http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf)
   * [The Extended Kalman Filter](http://home.wlu.edu/~levys/kalman_tutorial/)
